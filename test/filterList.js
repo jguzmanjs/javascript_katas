@@ -1,4 +1,4 @@
-const filter_list = require("../filterList");
+const filter_list = require("../src/filterList");
 const assert = require('chai').assert;
 describe("Tests", () => {
     it("test", () => {

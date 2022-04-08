@@ -1,5 +1,5 @@
 const chai = require("chai");
-const likes = require("../likes");
+const likes = require("../src/likes");
 const assert = chai.assert;
 chai.config.truncateThreshold=0;
 

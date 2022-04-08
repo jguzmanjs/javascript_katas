@@ -1,5 +1,5 @@
 const chai = require("chai");
-const getCount = require("../vowelsCount");
+const getCount = require("../src/vowelsCount");
 const assert = chai.assert;
 
 describe("Case 1", function(){
